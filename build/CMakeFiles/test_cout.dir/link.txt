@@ -1,0 +1,1 @@
+/usr/bin/c++  -ggdb  -O0 -Werror CMakeFiles/test_cout.dir/test/test_cout.cpp.o -o bin/test_cout   -L/usr/local/lib 
