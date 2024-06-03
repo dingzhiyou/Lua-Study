@@ -1,0 +1,1 @@
+/usr/bin/c++  -ggdb  -O0 -Werror CMakeFiles/main.dir/code/main.cpp.o -o bin/main   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -llua 

@@ -1,0 +1,4 @@
+/home/bigmath/Lua/build/CMakeFiles/main.dir
+/home/bigmath/Lua/build/CMakeFiles/test_cout.dir
+/home/bigmath/Lua/build/CMakeFiles/edit_cache.dir
+/home/bigmath/Lua/build/CMakeFiles/rebuild_cache.dir
